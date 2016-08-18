@@ -67,4 +67,5 @@
 
  ![dir](dir2.jpg)
 
-##DEMO(http://htmlpreview.github.io/?https://github.com/xiazixing/paper/blob/master/index.html)
+##DEMO
+(http://htmlpreview.github.io/?https://github.com/xiazixing/paper/blob/master/index.html)
