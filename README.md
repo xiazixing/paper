@@ -26,10 +26,14 @@
 * 接着引入paper.js
 * 编写index.html,如下：
  ![paper](paper.jpg)
+
 ##效果
 * html效果
+
  ![dir](dir1.jpg)
-*页面效果
+ 
+* 页面效果
+
  ![dir](dir2.jpg)
 
 ##DEMO
