@@ -28,7 +28,7 @@
  ![paper](paper.jpg)
 * 源码
 
-```python
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
