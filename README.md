@@ -25,4 +25,12 @@
 * 首先在index.html引入jquery库
 * 接着引入paper.js
 * 编写index.html,如下：
-* ![paper](paper.jpg)
+ ![paper](paper.jpg)
+##效果
+* html效果
+ ![dir](dir1.jpg)
+*页面效果
+ ![dir](dir2.jpg)
+
+##DEMO
+http://htmlpreview.github.io/?https://github.com/xiazixing/paper/blob/master/index.html
